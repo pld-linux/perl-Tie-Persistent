@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Tie
-%define	pnam	Persistent
+%define		pdir	Tie
+%define		pnam	Persistent
 Summary:	Tie::Persistent - persistent data structures via tie made easy
 Summary(pl):	Tie::Persistent - trwa³e struktury danych oparte na Tie
 Name:		perl-Tie-Persistent
