@@ -9,7 +9,7 @@ Summary:	Tie::Persistent - persistent data structures via tie made easy
 Summary(pl):	Tie::Persistent - trwa³e struktury danych oparte na Tie
 Name:		perl-Tie-Persistent
 Version:	1.00
-Release:	3
+Release:	4
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
