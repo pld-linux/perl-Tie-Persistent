@@ -10,7 +10,8 @@ Summary(pl):	Tie::Persistent - trwa³e struktury danych oparte na Tie
 Name:		perl-Tie-Persistent
 Version:	1.00
 Release:	3
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	4f21d393e7af0cb6eebad6b3b72a2797
