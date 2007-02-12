@@ -6,7 +6,7 @@
 %define		pdir	Tie
 %define		pnam	Persistent
 Summary:	Tie::Persistent - persistent data structures via tie made easy
-Summary(pl):	Tie::Persistent - trwa³e struktury danych oparte na Tie
+Summary(pl.UTF-8):   Tie::Persistent - trwaÅ‚e struktury danych oparte na Tie
 Name:		perl-Tie-Persistent
 Version:	1.00
 Release:	5
@@ -30,15 +30,15 @@ datastructure is kept in memory (which is also a limitation), and, of
 course, that you can use arbitrary data structures inside the variable
 (unlike DB_File).
 
-%description -l pl
-Pakiet Tie::Persistent czyni pracê z trwa³ymi danymi naprawdê ³atw±
-dziêki u¿yciu interfejsu tie.
+%description -l pl.UTF-8
+Pakiet Tie::Persistent czyni pracÄ™ z trwaÅ‚ymi danymi naprawdÄ™ Å‚atwÄ…
+dziÄ™ki uÅ¼yciu interfejsu tie.
 
-Dzia³a on poprzez zapisywanie danych zawartych w zmiennej do pliku
-(podobnie jak w bazie danych). G³ówn± zalet± jest szybko¶æ, jako ¿e
-ca³a struktura danych jest trzymana w pamiêci (która jest tak¿e
-ograniczeniem) i oczywi¶cie to, ¿e mo¿na u¿ywaæ w zmiennej dowolnych
-struktur danych (w przeciwieñstwie do DB_File).
+DziaÅ‚a on poprzez zapisywanie danych zawartych w zmiennej do pliku
+(podobnie jak w bazie danych). GÅ‚Ã³wnÄ… zaletÄ… jest szybkoÅ›Ä‡, jako Å¼e
+caÅ‚a struktura danych jest trzymana w pamiÄ™ci (ktÃ³ra jest takÅ¼e
+ograniczeniem) i oczywiÅ›cie to, Å¼e moÅ¼na uÅ¼ywaÄ‡ w zmiennej dowolnych
+struktur danych (w przeciwieÅ„stwie do DB_File).
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
