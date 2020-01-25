@@ -4,7 +4,6 @@
 
 %define		pdir	Tie
 %define		pnam	Persistent
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tie::Persistent - persistent data structures via tie made easy
 Summary(pl.UTF-8):	Tie::Persistent - trwałe struktury danych oparte na Tie
 Name:		perl-Tie-Persistent
